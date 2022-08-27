@@ -17,3 +17,6 @@
 .header a:hover{
     color: orange;
 }
+ .header .btn:hover{
+    color:orange ;
+}
